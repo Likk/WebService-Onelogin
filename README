@@ -1,0 +1,18 @@
+This is Perl module WebService::Onelogin.
+
+INSTALLATION
+
+WebService::Onelogin installation is straightforward. If your cpanm is set up,
+you should just be able to do
+
+    % cpanm https://github.com/Likk/WebService-Onelogin.git
+
+DOCUMENTATION
+
+WebService::Onelogin documentation is available as in POD. So you can do:
+
+    % perldoc -t WebService::Onelogin
+
+to read the documentation online with your favorite pager.
+
+likkradyus
